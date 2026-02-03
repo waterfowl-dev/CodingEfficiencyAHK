@@ -13,5 +13,7 @@ This script does a few things.
    * While numlock is DISABLED, numpad numbers are now hotkeys for Win+Number. In other words, the numpad will quick launch programs on your windows bar.
    * '+' key opens program select (like alt tab)
    * '-' is play/pause (personal preference)
-   * '*' is minimize, / is control+W
+   * '*' is minimize
+   * '/' is control+W
+   * '.' is power tools launcher (ignore if you don't have it)
    * These can all be changed. It's all disabled when numlock is on.
