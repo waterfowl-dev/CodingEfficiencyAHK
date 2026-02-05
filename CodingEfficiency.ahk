@@ -62,7 +62,7 @@ CapsLock & q:: Send "{Home}"       ; start of line
 *NumpadAdd::    Send "#{Tab}" ;shows all open programs for easy switching
 *NumpadSub::    Send "{Media_Play_Pause}" ;this is personal. my keyboard is lacking a button for it)
 *NumpadMult::   Send "#m" ;quick minimize all programs
-*NumpadDiv::    Send "^w" ;control W - does different things depending on program. Commonly closes tabs, or entire program
-*NumpadDel::    Send "{LAlt Down}{Space}{LAlt Up}" ;this is personal. Opens powertools launcher
+*NumpadDiv::    Send "!{F4}" ;alt f4 - closes focused program
+*NumpadDel::    Send "!{Space}" ;this is personal. Opens powertools launcher
 
 #HotIf
