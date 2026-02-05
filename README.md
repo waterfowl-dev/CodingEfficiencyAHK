@@ -14,6 +14,6 @@ This script does a few things.
    * '+' key opens program select (like alt tab)
    * '-' is play/pause (personal preference)
    * '*' is minimize
-   * '/' is control+W
+   * '/' is alt F4
    * '.' is power tools launcher (ignore if you don't have it)
    * These can all be changed. It's all disabled when numlock is on.
